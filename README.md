@@ -1,4 +1,5 @@
 # portfolioprojects
+
 This repository contains data analysis and visualization projects that showcase my skills as a data analyst/scientist. The projects included in this repository demonstrate my ability to analyze and interpret data, derive insights, and present findings using various data visualization techniques. The projects utilize different programming languages and tools such as Python, SQL, Machine learning and Power BI.
 
 Projects:
@@ -11,6 +12,8 @@ Bulldozers Sales Price Prediction project aims to predict the sale price of used
 
 Covid Project - 
 Covid Project is a data-driven initiative that aims to analyze and understand the impact of the COVID-19 pandemic using various data sources and analytical techniques.
-
+Tool/Skill used - SQL
 
 Data Professional Survey breakdown -
+The Data Professional Survey project is a comprehensive research initiative that aims to collect and analyze data on various aspects of the data profession, including job roles, skills, tools, technologies, trends, and challenges. 
+Tool/Skill used - PowerBI
