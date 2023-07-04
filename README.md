@@ -14,6 +14,3 @@ Covid Project -
 Covid Project is a data-driven initiative that aims to analyze and understand the impact of the COVID-19 pandemic using various data sources and analytical techniques.
 Tool/Skill used - SQL
 
-Data Professional Survey breakdown -
-The Data Professional Survey project is a comprehensive research initiative that aims to collect and analyze data on various aspects of the data profession, including job roles, skills, tools, technologies, trends, and challenges. 
-Tool/Skill used - PowerBI
